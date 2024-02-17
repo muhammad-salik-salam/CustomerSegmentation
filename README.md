@@ -1,8 +1,6 @@
 # Online Retail Customer Segmentation
 
-## Abstract
-
-This research project delves into the realm of online retail, focusing on a dataset from a UK-based store covering transactions from 2010 to 2011. The primary goal is to enhance marketing and sales strategies by gaining insights into diverse customer segments. Employing K-means clustering, the study analyzes recency, frequency, and monetary aspects, providing a nuanced understanding of customer profiles to refine the store's strategies.
+This project delves into the realm of online retail, focusing on a dataset from a UK-based store covering transactions from 2010 to 2011. The primary goal is to enhance marketing and sales strategies by gaining insights into diverse customer segments. Employing K-means clustering, the study analyzes recency, frequency, and monetary aspects, providing a nuanced understanding of customer profiles to refine the store's strategies.
 
 **Keywords:** Recency (R), Frequency (F), Monetary (M), LOF (Local Outlier Factor), PCA (Principal Component Analysis)
 
