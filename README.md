@@ -37,18 +37,17 @@ K-Means clustering is utilized to group customers based on RFM features. The opt
 ### a. Elbow Method
 
 The Elbow Method suggests an optimal cluster count between 3 and 6, with 3 clusters identified as optimal for the dataset.
+![Correlation](images/elbow.png)
 
 ### b. Silhouette Score
 
 Silhouette Score analysis confirms that 3 clusters yield well-defined clusters with satisfactory cohesion and separation.
+![Correlation](images/silhouette.png)
 
 ### c. Cluster Stability
 
 Cluster Stability assessment further validates 3 clusters, ensuring robustness in cluster assignments.
-
-### d. K-means Visualization on PCA
-
-The dataset is visualized in a 3D model using PCA attributes, confirming the effectiveness of the chosen number of clusters.
+![Correlation](images/cluster_stability.png)
 
 ## 4. Results
 
