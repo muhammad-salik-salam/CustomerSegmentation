@@ -4,7 +4,6 @@ This project delves into the realm of online retail, focusing on a dataset from 
 
 **Keywords:** Recency (R), Frequency (F), Monetary (M), LOF (Local Outlier Factor), PCA (Principal Component Analysis)
 
-To download or clone this repository to your local machine:
 
 Run the following command to clone the repository:
 ```bash
