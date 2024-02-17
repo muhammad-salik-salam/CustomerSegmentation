@@ -9,7 +9,7 @@ To download or clone this repository to your local machine:
 Run the following command to clone the repository:
 ```bash
 git clone https://github.com/imsalik/CustomerSegmentation.git
-
+```
 
 ## 1. Introduction
 
