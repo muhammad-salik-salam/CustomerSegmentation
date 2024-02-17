@@ -25,7 +25,7 @@ Local Outlier Factor (LOF) is employed to identify and address outliers, ensurin
 ### d. Correlation
 
 Correlation analysis identifies strong correlations among variables, prompting the use of Principal Component Analysis (PCA) for dimensionality reduction.
-
+![Correlation](images/correlation.png)
 ### e. Principal Component Analysis (PCA)
 
 PCA is applied to reduce feature dimensionality while preserving data variance, ensuring a more stable clustering process.
