@@ -58,6 +58,8 @@ Customer segmentation reveals three distinct clusters:
 - Cluster 1 (Orange): Moderate spenders with potential for growth.
 - Cluster 2 (Green): High-value customers with concerns about potential dissatisfaction.
 
+![Sementation](images/results.png)
+![Distribution](images/result_perct.png)
 ## 5. Conclusion
 
 The segmentation analysis provides insights for personalized marketing and retention strategies. Continuous monitoring and strategy adjustments based on evolving customer trends are crucial for maximizing effectiveness.
