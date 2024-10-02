@@ -7,7 +7,7 @@ This project delves into the realm of online retail, focusing on a dataset from 
 
 Run the following command to clone the repository:
 ```bash
-git clone https://github.com/imsalik/CustomerSegmentation.git
+git clone https://github.com/muhammad-salik-salam/CustomerSegmentation.git
 ```
 
 ## 1. Introduction
