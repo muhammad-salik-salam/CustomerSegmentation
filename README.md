@@ -65,6 +65,3 @@ Customer segmentation reveals three distinct clusters:
 
 ![Sementation](images/results.png)
 ![Distribution](images/result_perct.png)
-## 5. Conclusion
-
-The segmentation analysis provides insights for personalized marketing and retention strategies. Continuous monitoring and strategy adjustments based on evolving customer trends are crucial for maximizing effectiveness.
